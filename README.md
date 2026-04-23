@@ -16,10 +16,12 @@
   <p>
     <em>An ultra-modern, high-performance cryptocurrency intelligence platform engineered for real-time market visibility, advanced analytics, and seamless user interaction. Built on a scalable, API-driven architecture, the system delivers live crypto price tracking, precision-driven historical charting, and intelligent watchlists with minimal latency and optimized rendering performance. </em>
   </p>
-</div>
+<p>
+    <img src="https://img.shields.io/badge/Status-Ready%20for%20Deployment-success" />
+    <img src="https://img.shields.io/badge/License-MIT-blue" />
+  </p>
 
-![CryptoPulse](https://img.shields.io/badge/Status-Ready%20for%20Deployment-success)
-![License](https://img.shields.io/badge/License-MIT-blue)
+</div>
 
 ## ✨ Features
 
