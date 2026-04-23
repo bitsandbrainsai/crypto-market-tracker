@@ -1,6 +1,22 @@
-# CryptoPulse 🚀
+<div align="center">
+  <img 
+    src="assets/Crypto Market Intelligence Platform.png" 
+    alt="Crypto Market Intelligence Platform Logo Animation"
+    width="100%"
+  />
 
-A modern, real-time cryptocurrency tracking and analytics application built with React, TypeScript, and Express. Track live crypto prices, create watchlists, set price alerts, and view interactive charts for your favorite digital assets.
+  <h1 style="font-size: 3em; font-weight: 800; margin: 0.4em 0 0;">
+    Crypto Market Intelligence Platform  
+  </h1>
+
+  <h3 style="margin-top: 0.6em;">
+    Real-Time Insights. Predictive Intelligence. High-Performance Crypto Analytics. 
+  </h3>
+
+  <p>
+    <em>An ultra-modern, high-performance cryptocurrency intelligence platform engineered for real-time market visibility, advanced analytics, and seamless user interaction. Built on a scalable, API-driven architecture, the system delivers live crypto price tracking, precision-driven historical charting, and intelligent watchlists with minimal latency and optimized rendering performance. </em>
+  </p>
+</div>
 
 ![CryptoPulse](https://img.shields.io/badge/Status-Ready%20for%20Deployment-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
